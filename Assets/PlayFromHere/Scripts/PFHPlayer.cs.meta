@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94bd6a471ebb9ea49be3af5511a4914b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263154
+  packageName: Play From Here
+  packageVersion: 1.0
+  assetPath: Assets/PlayFromHere/Scripts/PFHPlayer.cs
+  uploadId: 607243

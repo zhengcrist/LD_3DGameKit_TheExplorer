@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c889d2dbd047254da2d9846db5943e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263154
+  packageName: Play From Here
+  packageVersion: 1.0
+  assetPath: Assets/PlayFromHere/Resources/Config/PFH_Config.asset
+  uploadId: 607243

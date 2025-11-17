@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5410738fc711ef4186ab923dad8ce6b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263154
+  packageName: Play From Here
+  packageVersion: 1.0
+  assetPath: Assets/PlayFromHere/Documentation.txt
+  uploadId: 607243

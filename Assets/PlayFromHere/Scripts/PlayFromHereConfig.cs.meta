@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cdfa8c83912176e4a8d2b0351a247a85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263154
+  packageName: Play From Here
+  packageVersion: 1.0
+  assetPath: Assets/PlayFromHere/Scripts/PlayFromHereConfig.cs
+  uploadId: 607243

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.Events;
 
 namespace Gamekit3D
 {
@@ -67,6 +68,8 @@ namespace Gamekit3D
         protected Color m_OriginalCoreMaterial;
 
         protected float m_ShieldActivationTime;
+
+        public UnityEvent OnDeath;
 
 
         void OnEnable()
@@ -137,6 +140,7 @@ namespace Gamekit3D
         {
             deathAudioPlayer.PlayRandomClip();
             m_EnemyController.animator.SetTrigger(hashDeathParam);
+            OnDeath.Invoke();
         }
 
         public void ActivateShield()
@@ -200,6 +204,8 @@ namespace Gamekit3D
             m_EnemyController.animator.SetTrigger(hashTurnTriggerParam);
             return OrientationState.IN_TRANSITION;
         }
+
+
 
 #if UNITY_EDITOR
 
